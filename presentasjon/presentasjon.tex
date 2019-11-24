@@ -4646,7 +4646,7 @@
         \draw[line width=2mm, fill=primary] (-3.6, 7.2) rectangle ++(1.8, 1.8);
         \draw[line width=2mm, fill=primary] (3.6, -9) rectangle ++(1.8, 1.8);
 
-        \fill (-2.7, 8.1) {};
+        \node [point] at (-2.7, 8.1) {};
     \end{scope}
 \end{slide}
 
@@ -4663,8 +4663,8 @@
         \draw[line width=2mm, fill=primary] (-3.6, 7.2) rectangle ++(1.8, 1.8);
         \draw[line width=2mm, fill=primary] (3.6, -9) rectangle ++(1.8, 1.8);
 
-        \fill (-2.7, 8.1) {};
-        \fill (4.5, -8.1) {};
+        \node [point] at (-2.7, 8.1) {};
+        \node [point] at (4.5, -8.1) {};
     \end{scope}
 \end{slide}
 
@@ -4679,8 +4679,8 @@
         \draw[line width=2mm, fill=primary] (-3.6, 7.2) rectangle ++(1.8, 1.8);
         \draw[line width=2mm, fill=primary] (3.6, -9) rectangle ++(1.8, 1.8);
 
-        \fill (-2.7, 8.1) {};
-        \fill (4.5, -8.1) {};
+        \node [point] at (-2.7, 8.1) {};
+        \node [point] at (4.5, -8.1) {};
 
         \draw [line width=2mm, fill=highlight] (-7.2, 5.4) rectangle ++(1.8, 1.8);
     \end{scope}
@@ -4697,11 +4697,11 @@
         \draw[line width=2mm, fill=primary] (-3.6, 7.2) rectangle ++(1.8, 1.8);
         \draw[line width=2mm, fill=primary] (3.6, -9) rectangle ++(1.8, 1.8);
 
-        \fill (-2.7, 8.1) {};
-        \fill (4.5, -8.1) {};
+        \node [point] at (-2.7, 8.1) {};
+        \node [point] at (4.5, -8.1) {};
 
         \draw [line width=2mm, fill=highlight] (-7.2, 5.4) rectangle ++(1.8, 1.8);
-        \fill (-6.3, 6.3) {};
+        \node [point] at (-6.3, 6.3) {};
     \end{scope}
 \end{slide}
 
@@ -4716,11 +4716,11 @@
         \draw[line width=2mm, fill=primary] (-3.6, 7.2) rectangle ++(1.8, 1.8);
         \draw[line width=2mm, fill=primary] (3.6, -9) rectangle ++(1.8, 1.8);
 
-        \fill (-2.7, 8.1) {};
-        \fill (4.5, -8.1) {};
+        \node [point] at (-2.7, 8.1) {};
+        \node [point] at (4.5, -8.1) {};
 
         \draw [line width=2mm, fill=highlight] (-5.4, 5.4) rectangle ++(1.8, 1.8);
-        \fill (-6.3, 6.3) {};
+        \node [point] at (-6.3, 6.3) {};
     \end{scope}
 \end{slide}
 
@@ -8134,40 +8134,39 @@
         \fill [secondary] (0.9, -6.3) circle (4.7mm); % u
         \fill [secondary] (-2.7, -6.3) circle (4.7mm); % t
         \fill [secondary] (4.5, -6.3) circle (4.7mm); % v
-        \fill [primary-dark] (4.5, -8.7) circle (6mm); % b
         \fill [secondary] (6.3, -4.5) circle (4.7mm); % r
         \fill [secondary] (-2.7, -4.5) circle (4.7mm); % q
         \fill [secondary] (-6.3, -4.5) circle (4.7mm); % v
-
+        
         \node (a) [point, fill=primary, minimum size=8mm] at (-2.7, 8.7) {};
-        \node (b) [point, fill=primary-dark, minimum size=8mm, label={[primary-dark, scale=2]below: {$21$}}] at (4.5, -8.7) {};
-
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
+        
         % \node (c) [point] at (-6.3, 6.3) {};
         \node (d) [point] at (-2.7, 6.3) {};
         \node (e) [point] at (2.7, 6.3) {};
         % \node (f) [point] at (6.3, 6.3) {};
-
+        
         \node (g) [point] at (-6.3, 2.7) {};
         % \node (h) [point] at (-2.7, 2.7) {};
         % \node (i) [point] at (0.9, 2.7)  {};
         % \node (j) [point] at (2.7, 2.7)  {};
-
+        
         % \node (k) [point] at (-6.3, -0.9) {};
         \node (l) [point] at (-2.7, -0.9) {};
         \node (m) [point] at (0.9, -0.9) {};
         \node (n) [point] at (4.5, -0.9) {};
         % \node (o) [point] at (6.3, -0.9) {};
-
+        
         \node (p) [point] at (-6.3, -4.5) {};
         \node (q) [point] at (-2.7, -4.5) {};
         \node (r) [point] at (6.3, -4.5) {};
-
+        
         % \node (s) [point] at (-6.3, -6.3) {};
         \node (t) [point] at (-2.7, -6.3) {};
         \node (u) [point] at (0.9, -6.3) {};
         \node (v) [point] at (4.5, -6.3) {};
         % \node (w) [point] at (6.3, -6.3) {};
-
+        
         % EXPLORING EDGES
         \draw [line width=4mm, secondary] (a) -- (d);
         \draw [line width=4mm, secondary, rounded corners=5mm] (d) -- (-6.3, 6.3) -- (g);
@@ -8184,7 +8183,7 @@
         \draw [line width=4mm, secondary, rounded corners=5mm] (v) -- (6.3, -6.3) -- (r);
         \draw [line width=4mm, secondary] (t) -- (q);
         \draw [line width=4mm, secondary, rounded corners=5mm] (t) -- (-6.3, -6.3) -- (p);
-
+        
         \draw [line width=1.5mm] (a) -- (d); 
         \draw [line width=1.5mm, rounded corners=5mm] (d) -- (-6.3, 6.3) -- (g);
         \draw [line width=1.5mm] (d) -- (e);
@@ -8200,6 +8199,7 @@
         \draw [line width=1.5mm] (u) -- (v);
         \draw [line width=1.5mm, rounded corners=5mm] (v) -- (6.3, -6.3) -- (r);
         \draw [line width=1.5mm] (v) -- (b); 
+        \fill [primary-dark] (4.5, -8.7) circle (6mm); % b
     \end{scope}
 \end{slide}
 
@@ -8279,7 +8279,7 @@
         \draw [line width=1.5mm] (u) -- (v);
         \draw [line width=1.5mm, rounded corners=5mm] (v) -- (6.3, -6.3) -- (r);
         \draw [line width=1.5mm, primary-dark] (v) -- (b); 
-        \node (b) [point, fill=primary-dark, minimum size=8mm, label={[primary-dark, scale=2]below: {$21$}}] at (4.5, -8.7) {};
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
         \fill [primary-dark] (4.5, -8.7) circle (6mm); % b
         \fill [primary-dark] (4.5, -6.3) circle (4.7mm); % v
     \end{scope}
@@ -8301,7 +8301,7 @@
         \fill [secondary] (-6.3, -4.5) circle (4.7mm); % p
         
         \node (a) [point, fill=primary, minimum size=8mm] at (-2.7, 8.7) {};
-        \node (b) [point, fill=primary-dark, minimum size=8mm, label={[primary-dark, scale=2]below: {$21$}}] at (4.5, -8.7) {};
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
         
         % \node (c) [point] at (-6.3, 6.3) {};
         \node (d) [point] at (-2.7, 6.3) {};
@@ -8382,7 +8382,7 @@
         \fill [secondary] (-6.3, -4.5) circle (4.7mm); % p
         
         \node (a) [point, fill=primary, minimum size=8mm] at (-2.7, 8.7) {};
-        \node (b) [point, fill=primary-dark, minimum size=8mm, label={[primary-dark, scale=2]below: {$21$}}] at (4.5, -8.7) {};
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
         
         % \node (c) [point] at (-6.3, 6.3) {};
         \node (d) [point] at (-2.7, 6.3) {};
@@ -8454,7 +8454,6 @@
         \fill [secondary] (-2.7, 8.7) circle (6mm); % a
         \fill [secondary] (-2.7, 6.3) circle (4.7mm); % d
         \fill [secondary] (-6.3, 2.7) circle (4.7mm); % g
-        \fill [primary-dark] (0.9, -0.9) circle (4.7mm); % m
         \fill [secondary] (4.5, -0.9) circle (4.7mm); % n
         \fill [secondary] (-2.7, -0.9) circle (4.7mm); % l
         \fill [secondary] (-2.7, -6.3) circle (4.7mm); % t
@@ -8464,33 +8463,23 @@
         \fill [secondary] (-6.3, -4.5) circle (4.7mm); % p
         
         \node (a) [point, fill=primary, minimum size=8mm] at (-2.7, 8.7) {};
-        \node (b) [point, fill=primary-dark, minimum size=8mm, label={[primary-dark, scale=2]below: {$21$}}] at (4.5, -8.7) {};
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
         
-        % \node (c) [point] at (-6.3, 6.3) {};
         \node (d) [point] at (-2.7, 6.3) {};
         \node (e) [point, primary-dark] at (2.7, 6.3) {};
-        % \node (f) [point] at (6.3, 6.3) {};
         
         \node (g) [point] at (-6.3, 2.7) {};
-        % \node (h) [point] at (-2.7, 2.7) {};
-        % \node (i) [point] at (0.9, 2.7)  {};
-        % \node (j) [point] at (2.7, 2.7)  {};
         
-        % \node (k) [point] at (-6.3, -0.9) {};
         \node (l) [point] at (-2.7, -0.9) {};
-        \node (m) [point, primary-dark] at (0.9, -0.9) {};
         \node (n) [point] at (4.5, -0.9) {};
-        % \node (o) [point] at (6.3, -0.9) {};
         
         \node (p) [point] at (-6.3, -4.5) {};
         \node (q) [point] at (-2.7, -4.5) {};
         \node (r) [point] at (6.3, -4.5) {};
         
-        % \node (s) [point] at (-6.3, -6.3) {};
         \node (t) [point] at (-2.7, -6.3) {};
         \node (u) [point, primary-dark] at (0.9, -6.3) {};
         \node (v) [point, primary-dark] at (4.5, -6.3) {};
-        % \node (w) [point] at (6.3, -6.3) {};
         
         % EXPLORING EDGES
         \draw [line width=4mm, secondary] (a) -- (d);
@@ -8526,6 +8515,8 @@
         \draw [line width=1.5mm] (t) -- (u);
         \draw [line width=1.5mm, primary-dark] (u) -- (v);
         \draw [line width=1.5mm, rounded corners=5mm] (v) -- (6.3, -6.3) -- (r);
+        \node (m) [point, primary-dark] at (0.9, -0.9) {};
+        \fill [primary-dark] (0.9, -0.9) circle (4.7mm); % m
         \draw [line width=1.5mm, primary-dark] (v) -- (b); 
     \end{scope}
 \end{slide}
@@ -8543,7 +8534,7 @@
         \fill [secondary] (-6.3, -4.5) circle (4.7mm); % p
         
         \node (a) [point, fill=primary, minimum size=8mm] at (-2.7, 8.7) {};
-        \node (b) [point, fill=primary-dark, minimum size=8mm, label={[primary-dark, scale=2]below: {$21$}}] at (4.5, -8.7) {};
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
         
         % \node (c) [point] at (-6.3, 6.3) {};
         \node (d) [point, primary-dark] at (-2.7, 6.3) {};
@@ -8626,7 +8617,92 @@
         \fill [secondary] (-6.3, -4.5) circle (4.7mm); % p
         
         \node (a) [point, fill=primary-dark, minimum size=8mm] at (-2.7, 8.7) {};
-        \node (b) [point, fill=primary-dark, minimum size=8mm, label={[primary-dark, scale=2]below: {$21$}}] at (4.5, -8.7) {};
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
+        
+        % \node (c) [point] at (-6.3, 6.3) {};
+        \node (d) [point, primary-dark] at (-2.7, 6.3) {};
+        \node (e) [point, primary-dark] at (2.7, 6.3) {};
+        % \node (f) [point] at (6.3, 6.3) {};
+        
+        \node (g) [point] at (-6.3, 2.7) {};
+        % \node (h) [point] at (-2.7, 2.7) {};
+        % \node (i) [point] at (0.9, 2.7)  {};
+        % \node (j) [point] at (2.7, 2.7)  {};
+        
+        % \node (k) [point] at (-6.3, -0.9) {};
+        \node (l) [point] at (-2.7, -0.9) {};
+        \node (m) [point, primary-dark] at (0.9, -0.9) {};
+        \node (n) [point] at (4.5, -0.9) {};
+        % \node (o) [point] at (6.3, -0.9) {};
+        
+        \node (p) [point] at (-6.3, -4.5) {};
+        \node (q) [point] at (-2.7, -4.5) {};
+        \node (r) [point] at (6.3, -4.5) {};
+        
+        % \node (s) [point] at (-6.3, -6.3) {};
+        \node (t) [point] at (-2.7, -6.3) {};
+        \node (u) [point, primary-dark] at (0.9, -6.3) {};
+        \node (v) [point, primary-dark] at (4.5, -6.3) {};
+        % \node (w) [point] at (6.3, -6.3) {};
+        
+        % EXPLORING EDGES
+        \draw [line width=4mm, secondary, rounded corners=5mm] (d) -- (-6.3, 6.3) -- (g);
+        \draw [line width=4mm, secondary, rounded corners=4mm, primary-dark] (e) -- (2.7, 2.7) -- (0.9, 2.7) -- (m);
+        \draw [line width=4mm, secondary, rounded corners=5mm] (e) -- (6.3, 6.3) -- (6.3, -0.9) -- (n);
+        \draw [line width=4mm, secondary, rounded corners=5mm] (g) -- (-6.3, -0.9) -- (l);
+        \draw [line width=4mm, secondary, rounded corners=5mm] (g) -- (-2.7, 2.7) -- (l);
+        \draw [line width=4mm, secondary] (l) -- (m);
+        \draw [line width=4mm, secondary] (u) -- (t);
+        \draw [line width=4mm, secondary, rounded corners=5mm] (v) -- (6.3, -6.3) -- (r);
+        \draw [line width=4mm, secondary] (t) -- (q);
+        \draw [line width=4mm, primary-dark] (a) -- (d);
+        \draw [line width=4mm, primary-dark] (d) -- (e);
+        \draw [line width=4mm, primary-dark] (u) -- (v);
+        \draw [line width=4mm, secondary, rounded corners=5mm] (t) -- (-6.3, -6.3) -- (p);
+        \draw [line width=4mm, primary-dark] (m) -- (u);
+        \draw [line width=4mm, primary-dark] (v) -- (b);
+        
+        \draw [line width=1.5mm, rounded corners=5mm] (d) -- (-6.3, 6.3) -- (g);
+        \draw [line width=1.5mm, rounded corners=5mm] (e) -- (6.3, 6.3) -- (6.3, -0.9) -- (n);
+        \draw [line width=1.5mm, rounded corners=5mm] (g) -- (-2.7, 2.7) -- (l);
+        \draw [line width=1.5mm, rounded corners=5mm] (g) -- (-6.3, -0.9) -- (l);
+        \draw [line width=1.5mm] (l) -- (m);
+        \draw [line width=1.5mm] (q) -- (t);
+        \draw [line width=1.5mm, rounded corners=5mm] (t) -- (-6.3, -6.3) -- (p);
+        \draw [line width=1.5mm] (t) -- (u);
+        \draw [line width=1.5mm, primary-dark] (a) -- (d); 
+        \draw [line width=1.5mm, primary-dark] (d) -- (e);
+        \fill [primary-dark] (-2.7, 6.3) circle (4.7mm); % d
+        \fill [primary-dark] (2.7, 6.3) circle (4.7mm); % e
+        \draw [line width=1.5mm, primary-dark] (u) -- (v);
+        \draw [line width=1.5mm, rounded corners=4mm, primary-dark] (e) -- (2.7, 2.7) -- (0.9, 2.7) -- (m);
+        \fill [primary-dark] (0.9, -0.9) circle (4.7mm); % m
+        \draw [line width=1.5mm, rounded corners=5mm] (v) -- (6.3, -6.3) -- (r);
+        \draw [line width=1.5mm, primary-dark] (m) -- (u);
+        \fill [primary-dark] (0.9, -6.3) circle (4.7mm); % u
+        \draw [line width=1.5mm, primary-dark] (v) -- (b); 
+        \fill [primary-dark] (4.5, -6.3) circle (4.7mm); % v
+    \end{scope}
+\end{slide}
+
+\begin{slide}
+
+    \node at (0, 0) {\includegraphics{figurer/enkel.png}};
+
+    \begin{scope}[scale=.98]
+        % DISCOVERED NODES
+        \fill [primary-dark] (-2.7, 8.7) circle (6mm); % a
+        \fill [secondary] (-6.3, 2.7) circle (4.7mm); % g
+        \fill [secondary] (4.5, -0.9) circle (4.7mm); % n
+        \fill [secondary] (-2.7, -0.9) circle (4.7mm); % l
+        \fill [secondary] (-2.7, -6.3) circle (4.7mm); % t
+        \fill [primary-dark] (4.5, -8.7) circle (6mm); % b
+        \fill [secondary] (6.3, -4.5) circle (4.7mm); % r
+        \fill [secondary] (-2.7, -4.5) circle (4.7mm); % q
+        \fill [secondary] (-6.3, -4.5) circle (4.7mm); % p
+        
+        \node (a) [point, fill=primary-dark, minimum size=8mm] at (-2.7, 8.7) {};
+        \node (b) [point, fill=primary-dark, minimum size=8mm] at (4.5, -8.7) {};
         
         % \node (c) [point] at (-6.3, 6.3) {};
         \node (d) [point, primary-dark] at (-2.7, 6.3) {};

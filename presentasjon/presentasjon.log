@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.18)  25 NOV 2019 00:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.11.18)  25 NOV 2019 00:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -810,4 +810,493 @@ Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 )) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO)
 Package pdftexcmds Info: LuaTeX not detected.
-Package pdftexcmds 
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 441.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 459.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+)) ABD: EveryShipout initializing macros ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 17.
+<figurer/enkel.png, id=4, 501.875pt x 501.875pt>
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 20.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </Users/erikaja/Documents/NTNU/TPD4114 Visuell formidling/presentasjon/figurer/enkel.png>]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 25.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [2]
+<figurer/middels.png, id=14, 617.30624pt x 617.30624pt>
+File: figurer/middels.png Graphic file (type png)
+<use figurer/middels.png>
+Package pdftex.def Info: figurer/middels.png  used on input line 47.
+(pdftex.def)             Requested size: 617.30473pt x 617.30473pt.
+ [3 </Users/erikaja/Documents/NTNU/TPD4114 Visuell formidling/presentasjon/figurer/middels.png>]
+<figurer/vanskelig.png, id=18, 2008.50375pt x 2008.50375pt>
+File: figurer/vanskelig.png Graphic file (type png)
+<use figurer/vanskelig.png>
+Package pdftex.def Info: figurer/vanskelig.png  used on input line 51.
+(pdftex.def)             Requested size: 2008.49887pt x 2008.49887pt.
+ [4 </Users/erikaja/Documents/NTNU/TPD4114 Visuell formidling/presentasjon/figurer/vanskelig.png>]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 55.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [5]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 61.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [6]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 75.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+LaTeX Font Info:    Trying to load font information for T1+npxtt on input line 84.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/t1npxtt.fd
+File: t1npxtt.fd 2000/12/14 v1.0
+)
+LaTeX Font Info:    Font shape `T1/npxtt/m/n' will be
+(Font)              scaled to size 10.0pt on input line 84.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `npxtt' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [7] [8]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 276.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [9]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 377.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [10]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 480.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [11]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 584.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [12]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 692.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [13]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 801.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [14]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 911.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [15]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1023.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [16]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1135.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [17]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1249.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [18]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1364.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [19]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1480.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [20]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1597.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [21]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1715.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [22]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1834.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [23]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 1954.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [24]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2075.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [25]
+<figurer/many_hours_later.png, id=90, 1027.84pt x 770.88pt>
+File: figurer/many_hours_later.png Graphic file (type png)
+<use figurer/many_hours_later.png>
+Package pdftex.def Info: figurer/many_hours_later.png  used on input line 2197.
+(pdftex.def)             Requested size: 1025.0pt x 768.80789pt.
+ [26 </Users/erikaja/Documents/NTNU/TPD4114 Visuell formidling/presentasjon/figurer/many_hours_later.png>]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2204.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [27]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2314.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [28]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2425.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [29]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2535.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [30]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2646.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [31]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2772.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [32]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 2898.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [33]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3024.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [34]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3150.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [35]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3276.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [36]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3402.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [37]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3528.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [38]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3654.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [39]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3780.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [40]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 3906.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [41]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4032.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [42]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4158.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [43]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4284.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [44]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4410.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [45]
+LaTeX Font Info:    Font shape `T1/zpltlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 4534.
+ [46]
+LaTeX Font Info:    Font shape `T1/zpltlf/m/it' will be
+(Font)              scaled to size 10.0pt on input line 4539.
+ [47] [48] [49] [50] [51] [52] [53]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4624.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [54]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4639.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [55]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4656.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [56]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4672.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [57]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4690.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [58]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4709.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [59]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4728.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [60]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4747.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [61]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4767.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [62]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4793.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [63]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4825.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [64]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4857.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [65]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4889.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [66]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4921.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [67]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4954.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [68]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 4989.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [69]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5024.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [70]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5059.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [71]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5097.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [72]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5135.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [73]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5173.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [74]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5211.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [75]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5249.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [76]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5288.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [77]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5329.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [78]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5370.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [79]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5411.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [80]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5453.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [81]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5497.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [82]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5541.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [83]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5586.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [84]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5631.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [85]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5677.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [86]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5725.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [87]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5775.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [88]
+<figurer/muchmuchmuchlater.jpg, id=293, 867.24pt x 650.43pt>
+File: figurer/muchmuchmuchlater.jpg Graphic file (type jpg)
+<use figurer/muchmuchmuchlater.jpg>
+Package pdftex.def Info: figurer/muchmuchmuchlater.jpg  used on input line 5825.
+(pdftex.def)             Requested size: 1026.0pt x 769.59486pt.
+ [89 </Users/erikaja/Documents/NTNU/TPD4114 Visuell formidling/presentasjon/figurer/muchmuchmuchlater.jpg>]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 5829.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [90] [91] [92] [93] [94]
+LaTeX Font Info:    Trying to load font information for OT1+zpltlf on input line 6143.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/ot1zpltlf.fd
+File: ot1zpltlf.fd 2015/01/17 v1.0 font definition file for OT1/zpl/tlf
+)
+LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
+(Font)              scaled to size 10.0pt on input line 6143.
+LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
+(Font)              scaled to size 7.3pt on input line 6143.
+LaTeX Font Info:    Font shape `OT1/zpltlf/m/n' will be
+(Font)              scaled to size 5.5pt on input line 6143.
+LaTeX Font Info:    Trying to load font information for U+npxmia on input line 6143.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/unpxmia.fd
+File: unpxmia.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxmia.
+)
+LaTeX Font Info:    Trying to load font information for U+npxsym on input line 6143.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/unpxsym.fd
+File: unpxsym.fd 2015/03/21 Fontinst v1.933 font definitions for U/npxsym.
+)
+LaTeX Font Info:    Trying to load font information for U+npxsyc on input line 6143.
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/newpx/unpxsyc.fd
+File: unpxsyc.fd 2013/03/24 Fontinst v1.933 font definitions for U/npxsyc.
+)
+LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
+(Font)              scaled to size 10.0pt on input line 6143.
+LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
+(Font)              scaled to size 7.3pt on input line 6143.
+LaTeX Font Info:    Font shape `OT1/zpltlf/b/n' will be
+(Font)              scaled to size 5.5pt on input line 6143.
+ [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [130]
+File: figurer/enkel.png Graphic file (type png)
+<use figurer/enkel.png>
+Package pdftex.def Info: figurer/enkel.png  used on input line 8690.
+(pdftex.def)             Requested size: 501.87376pt x 501.87376pt.
+ [131] (/Users/erikaja/Documents/NTNU/TPD4114 Visuell formidling/presentasjon/presentasjon.aux) ) 
+Here is how much of TeX's memory you used:
+ 18596 strings out of 492164
+ 343449 string characters out of 6125317
+ 467874 words of memory out of 5000000
+ 22553 multiletter control sequences out of 15000+600000
+ 32854 words of font info for 61 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 68i,7n,62p,946b,890s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/zplb.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/zplr.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/newpx/zplri.pfb>
+Output written on "/Users/erikaja/Documents/NTNU/TPD4114 Visuell formidling/presentasjon/presentasjon.pdf" (131 pages, 2590073 bytes).
+PDF statistics:
+ 455 PDF objects out of 1000 (max. 8388607)
+ 309 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 9766 words of extra memory for PDF output out of 10000 (max. 10000000)
+
